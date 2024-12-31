@@ -138,4 +138,4 @@ environment variable in the lambda function key = HookUrl and value = Genertated
 
 - LINK: [Webhook SetUp](https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?tabs=dotnet#create-incoming-webhooks-1)
 
-![Image](img/notification.png)
+![Image](img/notification.PNG)
